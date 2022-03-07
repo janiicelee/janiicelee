@@ -18,6 +18,5 @@
 </p>
 
 - 🌱 I'm also interested in DevOps and Data visualization.
-- 🏊🏻‍♀️🎳 I enjoy swimming, reading books and playing games with friends.
-
+- 🏊🏻‍♀️🎳 I enjoy swimming, reading books and playing board games.
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
