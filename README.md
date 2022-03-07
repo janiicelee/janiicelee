@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 <h3><b>🌼 About Me 🌼</b></h3>
 <p> Hi there! 👋 I'm a Software Engineer who has working experience in Backend Web Development using Python and DRF. I am currently learning Full Stack Web Development using JavaScript. Feel free to reach me out!</p>
 
-<p><a href="janice.hae.lee@gmail.com" target="_blank"><img src="https://img.shields.io/badge/janice.hae.lee@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white"/></a></p>
-<p><a href="https://www.linkedin.com/in/janice-yerin-lee/" target="_blank"><img src="https://img.shields.io/badge/JaniceLee-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a></p>
+<p align="center"><a href="janice.hae.lee@gmail.com" target="_blank"><img src="https://img.shields.io/badge/janice.hae.lee@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
+<a href="https://www.linkedin.com/in/janice-yerin-lee/" target="_blank"><img src="https://img.shields.io/badge/JaniceLee-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a></p>
 
 <h3><b>🛠 Skills 🛠</b></h3>
 <p>
   <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Django-darkgreen?style=flat-square&logo=Django&logoColor=white"/>$nbsp
+  <img src="https://img.shields.io/badge/Django-darkgreen?style=flat-square&logo=Django&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/HTML-orange?style=flat-square&logo=HTML&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/CSS3-purple?style=flat-square&logo=CSS3&logoColor=white"/> &nbsp
