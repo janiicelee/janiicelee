@@ -4,7 +4,7 @@
 <h3><b>🌼 About Me 🌼</b></h3>
 <p><a href="mailto:janice.hae.lee@gmail.com" target="_blank"><img src="https://img.shields.io/badge/janice.hae.lee@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:janice.hae.lee@gmail.com"/></a>&nbsp
 <a href="https://www.linkedin.com/in/janice-yerin-lee/" target="_blank"><img src="https://img.shields.io/badge/JaniceLee-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a></p>
-<p> Hi there! 👋 I'm a Software Engineer who has working experience in Backend Web Development using Python and DRF. I am currently learning Full Stack Web Development using JavaScript. Feel free to reach me out!</p>
+<p> Hi there! 👋 I'm a Software Engineer based in California. I have work experience in Backend Web Development using Python and DRF. I am currently learning Full Stack Web Development using JavaScript. Feel free to reach me out!</p>
 
 <h3><b>🛠 Skills 🛠</b></h3>
 <p>
