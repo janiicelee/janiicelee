@@ -14,12 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JANICE%20LEE&fontSize=40&animation=twinkling&text-color=black)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=EAT%20PRAY%20CODE&fontSize=45&animation=twinkling&text-color=black)
 <h3><b>🌼 About Me 🌼</b></h3>
-<p> Hi there! 👋 I'm a Software Engineer who has working experience in Backend Web Development using Python and DRF. I am currently learning Full Stack Web Development using JavaScript. Feel free to reach me out!</p>
-
-<p align="center"><a href="janice.hae.lee@gmail.com" target="_blank"><img src="https://img.shields.io/badge/janice.hae.lee@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
+<p><a href="janice.hae.lee@gmail.com" target="_blank"><img src="https://img.shields.io/badge/janice.hae.lee@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
 <a href="https://www.linkedin.com/in/janice-yerin-lee/" target="_blank"><img src="https://img.shields.io/badge/JaniceLee-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a></p>
+<p> Hi there! 👋 I'm a Software Engineer who has working experience in Backend Web Development using Python and DRF. I am currently learning Full Stack Web Development using JavaScript. Feel free to reach me out!</p>
 
 <h3><b>🛠 Skills 🛠</b></h3>
 <p>
@@ -33,6 +32,6 @@ Here are some ideas to get you started:
 </p>
 
 - 🌱 I'm also interested in DevOps and Data visualization.
-- 🍎 My hobby is swimming, reading books and playing card games with friends.
+- 🏊🏻‍♀️🎳 I enjoy swimming, reading books and playing games with friends.
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
