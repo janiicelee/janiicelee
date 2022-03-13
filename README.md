@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Node.js-green?style=flat-square&logo=Node.js&logoColor=white"/> &nbsp
 </p>
 
-🌱 I'm also interested in DevOps and Data visualization.
+🌱 I'm also interested in DevOps and Data visualization and Software Design.
 <br>
 🏊🏻‍♀️🎳 I enjoy swimming, reading books and playing board games.
 
