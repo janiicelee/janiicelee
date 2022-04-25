@@ -9,15 +9,15 @@
 <h3><b>Skills 🛠</b></h3>
 <p>
   <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Django-darkgreen?style=flat-square&logo=Django&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/HTML-orange?style=flat-square&logo=HTML&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/CSS3-purple?style=flat-square&logo=CSS3&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/Django-darkgreen?style=flat-square&logo=Django&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/React-skyblue?style=flat-square&logo=React&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/Node.js-green?style=flat-square&logo=Node.js&logoColor=white"/> &nbsp
 </p>
 
-🌱 I'm also interested in Data visualization, DevOps and Software Design.
+🌱 I'm also interested in DevOps and Software Design.
 <br>
 🏊🏻‍♀️🎳 I enjoy swimming, reading books and playing board games.
 
