@@ -7,13 +7,13 @@
 
 <h3><b>Skills 🛠</b></h3>
 <p>
-  <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/HTML-orange?style=flat-square&logo=HTML&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/CSS3-purple?style=flat-square&logo=CSS3&logoColor=white"/> &nbsp
-  <img src="https://img.shields.io/badge/Django-darkgreen?style=flat-square&logo=Django&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/React-skyblue?style=flat-square&logo=React&logoColor=white"/> &nbsp
-  <img src="https://img.shields.io/badge/Node.js-green?style=flat-square&logo=Node.js&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=Javascript&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=HTML&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/CSS3-purple?style=for-the-badge&logo=CSS3&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=Django&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/React-skyblue?style=for-the-badge&logo=React&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=Node.js&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/Postgresql-3776AB?style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp
 </p>
 
