@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=EAT%20·%20PRAY%20·%20CODE&fontSize=45&animation=twinkling&text-color=black)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Janice%20%20Lee%20&fontSize=45&animation=twinkling&text-color=black)
 <h3><b>About Me 👩🏻‍💻</b></h3>
 <p><a href="mailto:janice.hae.lee@gmail.com" target="_blank"><img src="https://img.shields.io/badge/janice.hae.lee@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:janice.hae.lee@gmail.com"/></a>&nbsp
 <a href="https://www.linkedin.com/in/janice-yerin-lee/" target="_blank"><img src="https://img.shields.io/badge/JaniceLee-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a></p>
@@ -20,5 +20,7 @@
 🌱 I'm also interested in DevOps and Software Design.
 <br>
 🏊🏻‍♀️🎳 I enjoy swimming, reading books and playing board games.
+
+![Janice's github stats](https://github-readme-stats.vercel.app/api?username=janiicelee)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
