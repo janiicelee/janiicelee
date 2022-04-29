@@ -14,12 +14,13 @@
   <img src="https://img.shields.io/badge/Django-darkgreen?style=flat-square&logo=Django&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/React-skyblue?style=flat-square&logo=React&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/Node.js-green?style=flat-square&logo=Node.js&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/Postgresql-3776AB?style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp
 </p>
 
 🌱 I'm also interested in DevOps and Software Design.
 <br>
 🏊🏻‍♀️🎳 I enjoy swimming, reading books and playing board games.
 
-[![Janice's github stats](https://github-readme-stats.vercel.app/api?username=janiicelee&count_private=true&theme=merko&show_icons=true)]()
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=janiicelee&langs_count=5&theme=merko)]()
+[![Janice's github stats](https://github-readme-stats.vercel.app/api?username=janiicelee&count_private=true&theme=merko&show_icons=true&hide=stars,contrib)]()
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=janiicelee&langs_count=5&theme=merko&layout=compact)]()
 
