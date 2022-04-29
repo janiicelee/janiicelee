@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <h3><b>About Me 👩🏻‍💻</b></h3>
 <p><a href="mailto:janice.hae.lee@gmail.com" target="_blank"><img src="https://img.shields.io/badge/janice.hae.lee@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:janice.hae.lee@gmail.com"/></a>&nbsp
