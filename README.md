@@ -21,6 +21,7 @@
 <br>
 🏊🏻‍♀️🎳 I enjoy swimming, reading books and playing board games.
 
-[![Janice's github stats](https://github-readme-stats.vercel.app/api?username=janiicelee&count_private=true&theme=merko&show_icons=true&hide=stars,contrib)]()
+
+[![Janice's github stats](https://github-readme-stats.vercel.app/api?username=janiicelee&count_private=true&theme=merko&show_icons=true&hide=stars,contribs)]()
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=janiicelee&langs_count=5&theme=merko&layout=compact)]()
 
