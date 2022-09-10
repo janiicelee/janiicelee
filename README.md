@@ -17,9 +17,9 @@
   <img src="https://img.shields.io/badge/Postgresql-3776AB?style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp
 </p>
 
-🌱 I'm also interested in DevOps and Software Design.
+🌱 I'm also interested in DevOps and Software Design
 <br>
-🏊🏻‍♀️🎳 I enjoy swimming, reading books and playing board games.
+🏊🏻‍♀️ I enjoy swimming, reading books📚 and eating chocolate🍫
 
 
 [![Janice's github stats](https://github-readme-stats.vercel.app/api?username=janiicelee&count_private=true&theme=merko&show_icons=true&hide=stars,contribs)]()
